@@ -1,4 +1,6 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
+
+
 Tejori Jewellery E-Commerce Website
 Welcome to Tejori - Unveiling Timeless Elegance ✨
 Explore the beauty and craftsmanship of fine jewelry at Tejori's GitHub repository. This project represents a stunning online platform for the Tejori jewelry boutique, where elegance meets timeless beauty.
