@@ -22,8 +22,8 @@ Stay Connected: Subscribe to the newsletter and follow Tejori on social media fo
 
 Contact Us: Reach out for inquiries or simply to connect with the Tejori team.
 ## Team members
-1. Joseph C B [[Embed personal github URL]](https://github.com/josephcbweb)
-2. Jennifer Harry Pereira [[Embed perosnal github URL]](https://github.com/jenniferharrypereira)
+1. Joseph C B [](https://github.com/josephcbweb)
+2. Jennifer Harry Pereira [](https://github.com/jenniferharrypereira)
 
 
 ## Team Id
